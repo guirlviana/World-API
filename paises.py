@@ -1,9 +1,6 @@
 import requests, json
 
 
-url_all = 'https://restcountries.eu/rest/v2/all'
-url_esp = 'https://restcountries.eu/rest/v2/name/usa'
-
 
 def request(url):
 
