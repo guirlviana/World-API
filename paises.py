@@ -1,7 +1,5 @@
 import requests, json
 
-
-
 def request(url):
 
     resp = requests.get(url)
